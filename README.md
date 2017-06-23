@@ -1,5 +1,5 @@
 # COMMON
-Resources common to all Ethereum implementations
+Resources common to all Expanse implementations
 
 # INSTALL
-`npm install ethereum-common`
+`npm install expanse-common`
