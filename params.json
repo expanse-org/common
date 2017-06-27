@@ -4,23 +4,23 @@
     "d": "Gas limit of the Genesis block."
   },
   "genesisDifficulty": {
-    "v": 17179869184,
+    "v": 1073741824,
     "d": "Difficulty of the Genesis block."
   },
   "genesisNonce": {
-    "v": "0x0000000000000042",
+    "v": "0x214652414e4b4f21",
     "d": "the geneis nonce"
   },
   "genesisExtraData": {
-    "v": "0x11bbe8db4e347b4e8c937c1c8370e4b5ed33adb3db69cbdb7a38e1e50b1b82fa",
+    "v": "0x4672616e6b6f497346726565646f6d",
     "d": "extra data "
   },
   "genesisHash": {
-    "v": "0xd4e56740f876aef8c010b86a40d5f56745a118d0906a34e69aec8c0db1cb8fa3",
+    "v": "0x2fe75cf9ba10cb1105e1750d872911e75365ba24fdd5db7f099445c901fea895",
     "d": "genesis hash"
   },
   "genesisStateRoot": {
-    "v": "0xd7f8974fb5ac78d9ac099b9ad5018bedc2ce0a72dad1827a1709da30580f0544",
+    "v": "0xc10a9483141b62388c2d2dd9cf5875a3cc0287d91f2946bc53a0b08ff42931cd",
     "d": "the genesis state root"
   },
   "minGasLimit": {
@@ -40,7 +40,7 @@
     "d": "The bound divisor of the difficulty, used in the update calculations."
   },
   "durationLimit": {
-    "v": 13,
+    "v": 60,
     "d": "The decision boundary on the blocktime duration used to determine whether difficulty should go up or not."
   },
   "maximumExtraDataSize": {
@@ -206,15 +206,15 @@
     "d": ""
   },
   "minerReward": {
-    "v": "5000000000000000000",
+    "v": "8000000000000000000",
     "d": "the amount a miner get rewarded for mining a block"
   },
   "ommerReward": {
-    "v": "625000000000000000",
+    "v": "1000000000000000000",
     "d": "The amount of wei a miner of an uncle block gets for being inculded in the blockchain"
   },
   "niblingReward": {
-    "v": "156250000000000000",
+    "v": "250000000000000000",
     "d": "the amount a miner gets for inculding a uncle"
   },
   "homeSteadForkNumber": {
