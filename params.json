@@ -36,7 +36,7 @@
     "d": "The minimum that the difficulty may ever be."
   },
   "difficultyBoundDivisor": {
-    "v": 2048,
+    "v": 512,
     "d": "The bound divisor of the difficulty, used in the update calculations."
   },
   "durationLimit": {
